@@ -1,4 +1,4 @@
 # myproject
-this is test repo
-this repo is created by elidrysy mohamed
-<h1>Hello</h1>
+This is a mini project in C: Library Management. 
+this repo is created by el-idrysy mohamed
+
